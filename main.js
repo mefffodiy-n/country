@@ -63,7 +63,7 @@ async function populateDropdown() {
 }
 
 window.addEventListener("load", async () => {
-    const defaultCountry = "United States";
+    const defaultCountry = "Russia";
     
     populateDropdown();
     
